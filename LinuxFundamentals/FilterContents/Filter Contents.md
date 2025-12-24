@@ -2,40 +2,40 @@
 
 ## File Inspection
 
-`more`: https://man.he.net/?q=more
+`more`: 
 
-`less`: https://man.he.net/?q=less
+`less`: 
 
- `head`: https://man.he.net/?q=head
+ `head`: 
 
- `tail`: https://man.he.net/?q=tail
+ `tail`: 
 
 ## Text Manipulation
 
- `sort`: https://man.he.net/?q=sort
+ `sort`: 
 
 Sorting, including sorting to display unique values only.
 
- `grep`: https://man7.org/linux/man-pages/man1/grep.1.html
+ `grep`: 
 
 Highlight text matching a pattern, including regex. 
 
- `cut`: https://man.he.net/?q=cut
+ `cut`: 
 
  Filter delimited data based on delimiters.
 
- `tr`: https://man.he.net/?q=tr
+ `tr`: 
 
  Replace characters from a line with characters set by the user.
 
- `column`: https://man.he.net/?q=column
+ `column`: 
 
  Format input into multiple columns.
 
- `awk`: https://man.he.net/?q=awk
+ `awk`: 
 
  Pattern scanning and processing.
 
- `sed`: https://man.he.net/?q=sed
+ `sed`: 
 
  Find and replace patterns.
