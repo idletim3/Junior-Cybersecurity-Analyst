@@ -2,13 +2,13 @@
 
 ## File Inspection
 
-`more`: 
+`more` / `less`: 
 
-`less`: 
+View parts of a file.
 
- `head`: 
+ `head`/`tail`: 
 
- `tail`: 
+ Show the first/last n rows of a file.
 
 ## Text Manipulation
 
@@ -39,3 +39,4 @@ Highlight text matching a pattern, including regex.
  `sed`: 
 
  Find and replace patterns.
+
